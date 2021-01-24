@@ -1,5 +1,17 @@
 # dynamic-motion-training
-Project for SeattleVR's Healthcare Hackathon 2018.  Won Best Interaction Design.   A method of training human motion using XR technology.
+Project for SeattleVR's Healthcare Hackathon 2018.  Won Best Interaction Design.   
+
+A method of calibration, demonstration and feedback training using XR technology.
+
+## Calibration
+![calibration](https://github.com/spayne/dynamic-motion-training/blob/master/images/calibration.jpg)
+
+## Demonstration
+![demonstration](https://github.com/spayne/dynamic-motion-training/blob/master/images/demonstration.jpg)
+
+## Feedback Training
+(in VR)
+
 
 ## Inspiration
 In Sean's experience with physical therapy and Andy's experience with dance, both project designers have recognized a need for motion instruction that is more intuitive and thorough than static words on a page. Virtual reality is a medium with as-yet unrealized potential for virtualizing human movement, and so this project is an experiment in tracking and instructing correct motion.
