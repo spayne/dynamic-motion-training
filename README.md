@@ -1,7 +1,11 @@
 # dynamic-motion-training
 Project for SeattleVR's Healthcare Hackathon 2018.  Won Best Interaction Design.   
 
+*Ergonomic and physical therapy guidance and instruction for general public health.*
+
 A method of calibration, demonstration and feedback training using XR technology.
+
+See also: https://devpost.com/software/dynamic-motion-training
 
 ## Calibration
 ![calibration](https://github.com/spayne/dynamic-motion-training/blob/master/images/calibration.jpg)
